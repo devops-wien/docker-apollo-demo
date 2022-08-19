@@ -21,7 +21,7 @@
   "homepage": "https://github.com/PreciousChicken/apollo-server-docker-container#readme",
   "dependencies": {
     "apollo-datasource-rest": "^3.6.1",
-    "apollo-server": "^2.22.1",
+    "apollo-server": "^3.0.0",
     "graphql": "^15.5.0",
     "ts-node": "^10.9.1"
   },
