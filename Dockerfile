@@ -1,5 +1,5 @@
 # Uses the node base image with the latest LTS version
-FROM node:19.1.0
+FROM node:19.2.0
 # Informs Docker that the container listens on the 
 # specified network ports at runtime
 EXPOSE 4000
