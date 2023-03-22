@@ -26,6 +26,6 @@
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
-    "nodemon": "2.0.21"
+    "nodemon": "2.0.22"
   }
 }
